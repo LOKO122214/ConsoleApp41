@@ -4,5 +4,6 @@
     {
         Console.WriteLine("Hello, World!");
         Console.WriteLine();
+        Console.WriteLine(  "10 g ");
     }
 }
