@@ -8,5 +8,6 @@ namespace ConsoleApp41
 {
     class StudentRepository
     {
+        public Dictionary<string, byte> students = new Dictionary<string, byte>();
     }
 }
