@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp41
 {
-    class StudentRepository
+    public static class StudentRepository
     {
-        public Dictionary<string, byte> students = new Dictionary<string, byte>();
+        public static Dictionary<string, byte> students = new Dictionary<string, byte>();
     }
 }
